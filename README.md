@@ -71,3 +71,8 @@ It's also easy to extend existing objects with emitter functionality:
     };
 
 SomeObject can now attach listeners and emit data. Awesome!
+
+License
+-------
+
+New BSD.
